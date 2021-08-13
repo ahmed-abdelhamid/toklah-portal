@@ -16,7 +16,7 @@
     "js-cookie": "^2.2.0",
     "jss-rtl": "^0.2.3",
     "mdi-material-ui": "^6.5.0",
-    "next": "^9.1.6",
+    "next": "^11.1.0",
     "next-cookies": "^1.1.2",
     "next-fonts": "^0.17.0",
     "next-redux-wrapper": "^3.0.0-alpha.3",
